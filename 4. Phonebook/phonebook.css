@@ -1,0 +1,18 @@
+article {
+    border: 2px solid sandybrown;
+    width: 30%;
+    margin: 0 auto;
+    padding: 40px 1px 40px 40px;
+}
+
+#btnCreate {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
